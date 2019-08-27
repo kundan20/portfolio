@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+
+}
+header{
+    background-color: coral;
+}
+header > h1{
+    display: inline;
+}
+nav{
+    display: inline-block;
+}
+ul {
+    list-style-type: none;
+}
+ul li{
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    color: cornsilk;
+    font-size: 1.5em;
+}
+p{
+    font-size: 1.5em;
+}
+table{
+    border: 2pt solid orangered;  
+}
+td,th{
+    border: 1pt solid green;
+}
+#officialimage{
+    width: 100vw;
+}
+#div1{
+    background-color: gray;
+    height: 10vh;
+    width: 100vw;
+    margin-top: -3.5vh;
+    
+    
+}
